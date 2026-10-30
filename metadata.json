@@ -1,0 +1,6 @@
+{
+  "name": "Younas & Sons Mini Mart Display (YSM)",
+  "description": "Professional 27-inch digital signage billboard and customer billing receipt display for Younas & Sons Mini Mart in Dargai, running 100% offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
